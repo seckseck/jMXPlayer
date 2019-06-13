@@ -4,7 +4,7 @@ import java.awt.Dimension;
 import java.awt.Rectangle;
 import java.util.ArrayList;
 
-public class Node {
+ class Node {
 
 	protected int capacity; // massimo numero di rettangoli inseribili nel nodo
 
