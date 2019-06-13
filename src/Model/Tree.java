@@ -7,7 +7,7 @@ public class Tree {
         root=null;
     }
     
-    protected void insert(HNode Main_node){
+    public void insert(HNode Main_node){
         //XXX non considera chiavi esistenti
         HNode Child_node = null;
         HNode root_node = this.root;

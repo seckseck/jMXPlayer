@@ -1,6 +1,6 @@
 package src.Model;
 
-class RBNode extends HNode {
+public class RBNode extends HNode {
 	RBNode left, right, position;
 	short color;
 

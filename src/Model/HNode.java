@@ -1,6 +1,6 @@
 package src.Model;
 
-class HNode {
+public class HNode {
 	HNode left, right, position;
 
 	Comparable key;
